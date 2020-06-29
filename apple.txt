@@ -6,3 +6,4 @@ zxczccz : test  conflict
 zxczccz: test  conflict
 new changed
 new edit
+redit in lock workspace
