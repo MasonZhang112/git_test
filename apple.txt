@@ -4,4 +4,5 @@ apple
 apple: edit by hot_fix
 zxczccz : test  conflict
 zxczccz: test  conflict
-
+new changed
+new edit
